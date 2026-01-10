@@ -59,11 +59,11 @@ a:active {
 }
 
 .quote {
-  color: red;
+  color: #1f7a63;
 
 }
 
 #mainquote {
-  border: 2px solid darkseagreen;
+  border: 2px solid #1f507a;
   padding: 10px;
 }
