@@ -40,3 +40,19 @@ img {
   margin: 0 auto;
   max-width: 100%;
 }
+
+a:link {
+  color: #2596be;      /* unvisited */
+}
+
+a:visited {
+  color: ##0b2d39;      /* visited */
+}
+
+a:hover {
+  color: ##bee0ec;      /* mouse over */
+}
+
+a:active {
+  color: #000000;      /* when clicked */
+}
